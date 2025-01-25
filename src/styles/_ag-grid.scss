@@ -1,0 +1,16 @@
+@use "custom"as custom;
+.ag-header-cell-label {
+  justify-content: center;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.88);
+}
+.ag-header-group-text{
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.88);
+}
+
+.ag-theme-balham .ag-row-selected {
+  --ag-selected-row-background-color: rgba(39, 44, 39, 0.1);
+}
+
+  
